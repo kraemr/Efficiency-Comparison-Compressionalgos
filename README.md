@@ -8,7 +8,7 @@ Compares some of the most used compression algorithms to determine which of them
 
 
 
-´
+```
 lzbench 1.8 (64-bit Linux)  AMD Ryzen 7 5700G with Radeon Graphics         
 Assembled by P.Skibinski
 
@@ -56,4 +56,4 @@ zlib 1.2.11 -1           67.4 MB/s   280 MB/s     3290532  53.49 ../uncompressed
 zlib 1.2.11 -2           62.6 MB/s   284 MB/s     3238288  52.64 ../uncompressed/ooffice
 zlib 1.2.11 -4           48.7 MB/s   292 MB/s     3158018  51.33 ../uncompressed/ooffice
 zlib 1.2.11 -8           16.4 MB/s   303 MB/s     3093032  50.28 ../uncompressed/ooffice
-´
+```
