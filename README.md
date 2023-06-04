@@ -1,6 +1,6 @@
 # Efficiency-Comparison-Compressionalgos
-Compares some of the most used compression algorithms to determine which of them are worth using
-
+Results of Running Lzbench and Testing against Silesia Corpus's dickens and Ooffice files.
+zstd,lz4,bzip2,brotli,xz and zlib were tested with Compression level 1,2,4 and 8 if available.
 
 
 
